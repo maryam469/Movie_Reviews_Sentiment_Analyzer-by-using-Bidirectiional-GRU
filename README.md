@@ -1,1 +1,0 @@
-I made a Movie Review Sentiment Analyzer using a Bi-directional GRU. Ye app user ka review leta hai, preprocess karta hai aur batata hai ki review Positive hai ya Negative. Maine ise Streamlit pe deploy kiya jahan real-time testing ho sakti hai.
